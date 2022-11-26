@@ -1,0 +1,10 @@
+
+*.exe
+*.fasta
+*.dll
+*.bat
+*.pl
+*.1
+*.rb
+*.ps1
+*.bed
