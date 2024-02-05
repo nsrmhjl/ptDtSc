@@ -39,3 +39,15 @@ Bioinformatics_with_Python/Chapter_7_Phylogenetics/trimAl/README
 Bioinformatics_with_Python/Chapter_7_Phylogenetics/trimAl/source/makefile
 Bioinformatics_with_Python/Chapter_7_Phylogenetics/trimAl/source/readal
 Bioinformatics_with_Python/Chapter_7_Phylogenetics/trimAl/source/trimal
+*.sh
+*.c
+*.pdf
+*.odt
+*.gcc
+*.mac
+*.zip
+*.seqs
+Bioinformatics_with_Python/Chapter_7_Phylogenetics/standard-RAxML-master/.github/workflows/ci.yaml
+Bioinformatics_with_Python/Chapter_7_Phylogenetics/standard-RAxML-master/gpl-3.0.txt
+Bioinformatics_with_Python/Chapter_7_Phylogenetics/standard-RAxML-master/README.md
+Bioinformatics_with_Python/Chapter_7_Phylogenetics/standard-RAxML-master/WindowsExecutables_v8.2.10/README
